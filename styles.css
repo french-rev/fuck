@@ -1,10 +1,10 @@
 marquee {
- font-family: 'Comic Sans';
  font-size: 6rem;
 }
 
 
 p, marquee {
+  font-family: 'Comic Sans MS';
   color: yellow;
 }
 
