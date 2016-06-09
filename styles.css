@@ -1,9 +1,9 @@
-h1 {
+marquee {
  font-family: 'Comic Sans';
 }
 
 
-p, h1 {
+p, marquee {
   color: yellow;
 }
 
