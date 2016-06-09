@@ -1,6 +1,10 @@
 h1 {
  font-family: 'Comic Sans';
- color: yellow;
+}
+
+
+p, h1 {
+  color: yellow;
 }
 
 body {
