@@ -1,1 +1,1 @@
-# fuck
+# Honorary Thursday
